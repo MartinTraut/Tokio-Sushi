@@ -1,0 +1,12 @@
+# Robots.txt für Tokio Sushi Hamburg
+# https://www.tokio-sushi.de
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.tokio-sushi.de/sitemap.xml
+
+# Nicht indexieren
+Disallow: /api/
+Disallow: /_next/
